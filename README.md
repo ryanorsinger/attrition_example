@@ -1,2 +1,1 @@
-Dataset info from [https://data.world/aaizemberg/hr-employee-attrition
-](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+Dataset info from https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
